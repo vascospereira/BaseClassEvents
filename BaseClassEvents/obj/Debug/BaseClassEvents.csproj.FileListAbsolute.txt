@@ -1,0 +1,7 @@
+C:\Users\vas27032\source\repos\BaseClassEvents\BaseClassEvents\bin\Debug\BaseClassEvents.exe.config
+C:\Users\vas27032\source\repos\BaseClassEvents\BaseClassEvents\bin\Debug\BaseClassEvents.exe
+C:\Users\vas27032\source\repos\BaseClassEvents\BaseClassEvents\bin\Debug\BaseClassEvents.pdb
+C:\Users\vas27032\source\repos\BaseClassEvents\BaseClassEvents\obj\Debug\BaseClassEvents.csprojResolveAssemblyReference.cache
+C:\Users\vas27032\source\repos\BaseClassEvents\BaseClassEvents\obj\Debug\BaseClassEvents.csproj.CoreCompileInputs.cache
+C:\Users\vas27032\source\repos\BaseClassEvents\BaseClassEvents\obj\Debug\BaseClassEvents.exe
+C:\Users\vas27032\source\repos\BaseClassEvents\BaseClassEvents\obj\Debug\BaseClassEvents.pdb
